@@ -1,4 +1,4 @@
-# projekt-zaverecny-mracek
+# ZÁKLADNÍ PROJEKT C# - MRAČEK DOMINIK
 Třída: UzivatelskeRozhrani Konstruktor:
 
 UzivatelskeRozhrani(): Inicializuje instance SpravceOsob pro správu seznamu pojištěných osob. Metody:
